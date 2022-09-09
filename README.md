@@ -1,6 +1,4 @@
 # In-Silico-Models-for-Predicting-Covid-19-from-their-Speech
-
-# Covid-Detection-Deep-Learning-
 This repository contains the Deep Learning CNN code implementation which is used to predict covid using Cough sounds.
 
 The cough sound Data was taken from IISC Coswara dataset.
